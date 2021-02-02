@@ -1,6 +1,6 @@
 # Frontend Mentor - Single Price Grid Component
 
-##Sobre o projeto 
+## Sobre o projeto 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 ## Demonstração
